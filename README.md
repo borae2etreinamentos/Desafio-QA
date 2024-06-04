@@ -14,7 +14,7 @@ O [My Store](https://teststore.automationtesting.co.uk/index.php) é uma platafo
 ## 👨🏻‍💻 Desafio
 Seu desafio irá ser composto de três etapas sendo uma delas opcional, caso sua vaga for para QA trainee, junior.
 
-A primeira delas tem como objetivo avaliar o seu conhecimento referente aos Fundamentos de Qualidade de Software. Composta por 15 perguntas que devem ser respondidas. Você pode optar em responder as perguntas no próprio README, ou criar um arquivo PDF e anexar ao repositório com as respostas.
+A primeira delas tem como objetivo avaliar o seu conhecimento referente aos Fundamentos de Qualidade de Software. Composta por 15 perguntas que devem ser respondidas. Você pode optar em responder as perguntas no arquivo questions.md, ou criar um arquivo PDF e anexar ao repositório com as respostas.
 
 A segunda delas tem como objetivo avaliar o planejamento do candidato em casos de testes. Um fluxo específico para cada nível de senioridade será atribuído. 
 
