@@ -1,5 +1,4 @@
 
- <div align="center">
    
 ![logo3-2](https://github.com/borae2etreinamentos/Desafio-QA/assets/171707617/45ff886a-4504-4996-b5c6-aaba5f62eb53)
 
