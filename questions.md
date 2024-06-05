@@ -1,6 +1,6 @@
 ## Perguntas
 ***1. Me conte sobre as suas atividades e dia a dia como QA?***
- - Sua resposta...
+ - Colo aqui
 
 ***2. Como você identifica o que vai testar?***
 - Sua resposta...
